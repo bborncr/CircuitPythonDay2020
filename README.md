@@ -11,8 +11,10 @@ La presentación del demo/taller [Ver](https://docs.google.com/presentation/d/1k
 ## Preparación Thonny IDE
 Thonny es un excelente programa para empezar con Micropython. Incluye todas las herramientas para preparar un dispositivo para Micropython.
 ### Seleccionar Interpreter para ESP8266
-En el menu de Thonny entrar en Tools --> Options --> Interpreter
-Selecciona Micropython (ESP8266) 
+En el menu de Thonny entrar en Tools --> Options --> Interpreter.
+
+Selecciona Micropython (ESP8266).
+ 
 Si todavia no ha instalado Micropython en su ESP8266 haga click donde dice "Open the dialog for installing or upgrading Micropython on your device".
 
 ![Interpreter](assets/interpreter.png)
