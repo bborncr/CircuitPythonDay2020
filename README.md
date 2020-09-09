@@ -1,7 +1,7 @@
 # CircuitPythonDay2020
 Este tutorial y código es para los participantes del Circuit Python Day 2020 en Costa Rica hosteado por Greencore.
 ## Presentación
-La presentación del demo/taller [Ver](https://docs.google.com/presentation/d/1kw1N7NGfJhXg8tDW3z9jVUXx_9tk0PStF1oHDXxnyug/edit?usp=sharing)
+La presentación del demo/taller. [Ver presentación](https://docs.google.com/presentation/d/1kw1N7NGfJhXg8tDW3z9jVUXx_9tk0PStF1oHDXxnyug/edit?usp=sharing)
 ## Requerimientos Software
 * Thonny v3.2.7 [Download](https://thonny.org/)
 * Micropython 1.13 ESP8266 Firmware [Download](http://micropython.org/resources/firmware/esp8266-20200902-v1.13.bin)
